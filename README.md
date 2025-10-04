@@ -1,0 +1,1 @@
+# wc-webwallet-redirect-bug
